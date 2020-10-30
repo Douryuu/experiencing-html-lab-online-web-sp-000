@@ -1,5 +1,10 @@
 "God Shattering Star"
 "Apex of the World"
+<<<<<<< HEAD
+=======
+"Midir"
+"Slave Knight Gael"
+>>>>>>> 8b299e3c5a73ce8cbb3abee47dd69cbdd8c3f8bc
 "Ludwig, the Holy Blade"
 "Lawrence, the First Vicar"
 "Lost Woods"
